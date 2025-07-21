@@ -1,0 +1,10 @@
+streamlit
+fastapi
+uvicorn
+transformers
+lime
+pydeck
+pandas
+requests
+streamlit-autorefresh
+scikit-learn
