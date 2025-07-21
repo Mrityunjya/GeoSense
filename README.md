@@ -35,3 +35,12 @@ GeoSense is an intelligent disaster response platform that leverages geospatial 
 git clone https://github.com/Mrityunjya/GeoSense.git
 cd GeoSense
 ```
+### Example Use Cases
+
+Scenario	GeoSense Action
+Flood detected	Sends SMS alerts to users in the danger zone
+Wildfire spotted	Updates real-time heatmap on dashboard
+Earthquake alert	Notifies local authorities with GPS data
+
+
+
