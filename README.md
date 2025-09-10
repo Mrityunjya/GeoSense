@@ -42,5 +42,7 @@ Flood detected	Sends SMS alerts to users in the danger zone
 Wildfire spotted	Updates real-time heatmap on dashboard
 Earthquake alert	Notifies local authorities with GPS data
 
+This Project mainly aims for AI - Powered Disaster Prediction and Management
+
 
 
